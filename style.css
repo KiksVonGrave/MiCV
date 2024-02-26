@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://iiface.org/wp-content/uploads/2021/09/bosque-fondo-de-pantalla.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #37054d;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+}
+
+header img {
+        display: block;
+        margin: 0 auto;
+        border-radius: 50%;
+        margin-bottom: 10px;
+    }
+    
+
+
+header h1 {
+    font-size: 45px;
+    margin: 0;
+}
+
+header p {
+    font-size: 20px;
+    color: #fafbfd;
+    margin: 5px 0;
+}
+
+.profile-description {
+    font-style: italic;
+}
+
+h2 {
+    font-size: 28px;
+    margin: 10px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+span {
+    font-size: 16px;
+    color: #999;
+}
+
